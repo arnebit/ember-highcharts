@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.7.0
+
+- Remove jQuery from high-charts component
+- Move boostrap to NPM and out of bower
+- Removed single quotes in the chart-solid-guage 'format'.
+- Merge pull request #136 from lamabiker/update-ember-cli-polyfill
+- update ember-getowner-polyfill dependency
+
+## 0.6.0
+
+- Ember 3.0 update
+- Updated blueprint to match current settings
+- Switching nested addon detection to findHost.
+- Upgrade to Highcharts 5.0.12, fix breaking tests
+
 ## 0.5.4
 
 - Replace _lookupFactory() with factoryFor()
